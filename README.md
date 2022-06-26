@@ -1,4 +1,4 @@
-Personal Static Web-Site
+Static Personal Web-Site
 ------------------------
 
 Run here: https://jermp.github.io.
