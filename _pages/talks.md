@@ -10,9 +10,9 @@ nav: true
 
 - [On Weighted K-Mer Dictionaries](assets/pdf/slides/TUDASTIC2022.pdf){:target="\_blank"}. TUDASTIC 2022. Lille, France, 10/05/2022.
 
-
 #### **Conferences**
 
+- [Sparse and Skew Hashing of K-Mers](assets/pdf/slides/ISMB2022.pdf){:target="\_blank"}. ISMB 2022. Madison, USA (virtual), 13/07/2022.
 - [PTHash: Revisiting FCH Minimal Perfect Hashing](assets/pdf/slides/DSB2022.pdf){:target="\_blank"}. DSB 2022, Düsseldorf, Germany, 14/06/2022.
 - [Sparse and Skew Hashing of K-Mers](assets/pdf/slides/RECOMB-seq-2022.pdf){:target="\_blank"}. RECOMB-seq 2022. La Jolla, California, USA (virtual), 20/05/2022.
 - [TSXor: A Simple Time-Series Compression Algorithm](assets/pdf/slides/SPIRE2021.pdf){:target="\_blank"}. SPIRE 2021. Lille, France (virtual), 04/10/2021.
