@@ -32,10 +32,12 @@ coming from different fields of Computing,
 such as Bioinformatics, Information Retrieval, and Natural Language Processing.
 The main objective is to improve the efficiency of complex tasks in these fields by providing *efficient* (i.e., "fast")
 and *effective* (i.e., "small") indexes to maintain/query data.
-In fact, a compressed index uses less storage space than the original data, thus permitting to:
-(1) handle larger datasets within the same memory budget,
-(2) maintain the data in faster memory levels (e.g., RAM instead of disk),
-hence granting fast queries.
+In fact, a compressed index uses less storage space than the original data, thus permitting:
+
+- for a fixed memory budget, to handle larger datasets;
+- for the same dataset, to maintain its compressed representation
+in faster memory levels (e.g., RAM instead of disk),
+hence granting faster access.
 
 I am committed to efficient software production: my software is available on
 [GitHub](https://github.com/jermp).
