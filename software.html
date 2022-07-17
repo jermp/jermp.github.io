@@ -2,16 +2,17 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://jermp.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Giulio Ermanno  Pibiri | Page not found</title>
+    <title>Giulio Ermanno  Pibiri | Software</title>
     <meta name="author" content="Giulio Ermanno  Pibiri" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Assistant Professor of Computer Science at Ca' Foscari University of Venice
+" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -30,7 +31,7 @@
     <!-- Styles -->
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://jermp.github.io/404.html">
+    <link rel="canonical" href="https://jermp.github.io/software">
     
     <!-- Dark Mode -->
     
@@ -76,8 +77,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/service">Service</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/software">Software</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/software">Software<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/talks">Talks</a>
@@ -105,12 +106,128 @@
 <div class="post">
 
   <header class="post-header">
-    <h2 class="post-title">Page not found</h2>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h2 class="post-title">Software</h2>
+    <p class="post-description"></p>
   </header>
 
   <article class="content">
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://jermp.github.io/">here</a>.</p>
+    <p>I am committed to efficient software production: my software is available on
+<a href="https://github.com/jermp" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+
+<h4 id="data-structures"><strong>Data Structures</strong></h4>
+
+<p>Efficient C++ implementations of the following data structures (see also related publications).</p>
+
+<ul>
+  <li>K-Mer Dictionaries (ISMB2022, WABI2022)</li>
+  <li>Minimal Perfect Hash Functions (SIGIR2021)</li>
+  <li>Segment-Trees and Fenwick-Trees (SPE2021)</li>
+  <li>Mutable Bitmaps with Rank/Select (INFOSYS2021)</li>
+  <li>Compressed Bitmaps (DCC2021)</li>
+  <li>Tries (SIGIR2017, TOIS2019, TKDE2021)</li>
+  <li>Inverted Indexes (TOIS2017, TKDE2020, WSDM2019, SIGIR2020, CSUR2021)</li>
+</ul>
+
+<p><a href="https://github.com/jermp/sshash" target="_blank" rel="noopener noreferrer">SSHash</a> –
+A compressed, weighted, associative, and exact dictionary for k-mers.
+<br>
+Reference publication: ISMB2022, WABI2022.</p>
+
+<p><a href="https://github.com/jermp/pthash" target="_blank" rel="noopener noreferrer">PTHash</a> –
+Fast and compact minimal perfect hash functions.
+<br>
+Reference publications: SIGIR2021, arXiv2021.</p>
+
+<p><a href="https://github.com/jermp/mutable_rank_select" target="_blank" rel="noopener noreferrer">Mutable Rank and Select Queries</a> –
+Mutable bitmaps with support for Rank and Select queries.
+<br>
+Reference publication: INFOSYS2021.</p>
+
+<p><a href="https://github.com/jermp/psds" target="_blank" rel="noopener noreferrer">Prefix-Sum Queries</a> –
+A range of tree-shaped data structures for maintaining prefix-sums, including:
+binary Segment-Tree (top-down and bottom-up),
+b-ary Segment-Tree,
+Fenwick-Tree,
+b-ary Fenwick-Tree,
+blocked Fenwick-Tree,
+truncated Fenwick-Tree.
+<br>
+Reference publication: SPE2021.</p>
+
+<p><a href="https://github.com/jermp/autocomplete" target="_blank" rel="noopener noreferrer">Query Auto-Completion</a> –
+Efficienct and effective
+autocompletion framework, based on forward/inverted indexes, succinct RMQ, and string dictionaries (Front-Coding and tries).
+<br>
+Reference publication: SIGIR2020.</p>
+
+<p><a href="https://github.com/jermp/2i_bench" target="_blank" rel="noopener noreferrer">Inverted Indexes Benchmark</a> –
+A benchmarking suite for inverted index data structures, featuring the following compressors:
+Elias-Fano and partitioned Elias-Fano,
+Opt-PFor-Delta,
+Binary Interpolative,
+QMX,
+Simple,
+Variable-Byte and Opt-VByte,
+Gamma, Delta, Rice, Zeta,
+DINT.
+<br>
+Reference publication: CSUR2021.</p>
+
+<p><a href="https://github.com/jermp/interpolative_coding" target="_blank" rel="noopener noreferrer">Interpolative Coding</a> –
+An efficient implementation of the Binary Interpolative Coding
+algorithm.</p>
+
+<p><a href="https://github.com/jermp/s_indexes" target="_blank" rel="noopener noreferrer">Sliced Indexes</a> –
+Compressed bitmap indexes that support fast intersection and union.
+<br>
+Reference publication: DCC2021.</p>
+
+<p><a href="https://github.com/jermp/dint" target="_blank" rel="noopener noreferrer">DINT</a> –
+A Fast and compact dictionary-based decoder for inverted lists.
+<br>
+Reference publication: WSDM2019.</p>
+
+<p><a href="https://github.com/jermp/opt_vbyte" target="_blank" rel="noopener noreferrer">Opt-VByte</a> –
+Optimal partitioning of inverted lists compressed using binary vectors
+and point-wise encoders, like Variable-Byte.
+<br>
+Reference publication: TKDE2020.</p>
+
+<p><a href="https://github.com/jermp/rdf_indexes" target="_blank" rel="noopener noreferrer">Indexes for RDF</a> –
+Trie-based indexes for semantic data like RDF triples.
+<br>
+Reference publication: TKDE2021.</p>
+
+<p><a href="https://github.com/jermp/tongrams" target="_blank" rel="noopener noreferrer">Tongrams</a> –
+Fast language model queries and <a href="https://github.com/jermp/tongrams_estimation" target="_blank" rel="noopener noreferrer">estimation</a> in compressed space.
+<br>
+Reference publications: SIGIR2017, TOIS2019.</p>
+
+<p><a href="https://github.com/jermp/clustered_elias_fano_indexes" target="_blank" rel="noopener noreferrer">Clustered Elias-Fano Indexes</a> –
+Clustered Elias-Fano inverted indexes.
+<br>
+Reference publication: TOIS2017.</p>
+
+<h4 id="miscellanea"><strong>Miscellanea</strong></h4>
+
+<p>C++ utilities that I used as sub-modules for larger projects.</p>
+
+<p><a href="https://github.com/jermp/essentials" target="_blank" rel="noopener noreferrer">essentials</a> –
+A C++ library providing essential core utilities for data structure design and benchmarking. More precisely:</p>
+
+<ul>
+  <li>benchmarking facilities, including: messages displaying local time, configurable timer class, function to prevent code elision by compiler, simple creation and printing of json documents;</li>
+  <li>functions to serialize-to and load-from disk data structures;</li>
+  <li>functions to compute the number of bytes consumed by data structures;</li>
+  <li>support for creating, removing, and iterate inside directories;</li>
+  <li>transparent support for contiguous memory allocation.</li>
+</ul>
+
+<p><a href="https://github.com/jermp/cmd_line_parser" target="_blank" rel="noopener noreferrer">cmd_line_parser</a> –
+Command line parser for C++17. It offers all handy features in just 150 lines of code.</p>
+
+<p><a href="https://github.com/jermp/mm_file" target="_blank" rel="noopener noreferrer">mm_file</a> –
+A self-contained, header-only, implementation of memory-mapped files in C++ for both reading and writing.</p>
 
   </article>
 
