@@ -27,6 +27,8 @@ and a Master Degree in Computer Science in March 2015 (Best Master Thesis Award
 in Theoretical Computer Science from EATCS; Master Degree Award from Scuola Superiore
 Sant'Anna) from the University of Pisa.
 
+I keep an updated copy of my CV [here](https://github.com/jermp/curriculum_vitae/blob/master/CV_GiulioErmanno_Pibiri.pdf).
+
 My research activity focuses on the design and implementation of compressed data structures for indexing large quantities of data
 coming from different fields of Computing,
 such as Bioinformatics, Information Retrieval, and Natural Language Processing.
@@ -52,5 +54,3 @@ Inverted Index Compression.
 
 If you are interested in problems of this kind, feel free to drop me a line!
 ([giulioermanno.pibiri@unive.it](mailto:giulioermanno.pibiri@unive.it))
-
-I keep an updated copy of my CV [here](https://github.com/jermp/curriculum_vitae/blob/master/CV_GiulioErmanno_Pibiri.pdf).
