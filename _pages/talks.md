@@ -12,6 +12,7 @@ nav: true
 
 #### **Conferences**
 
+- [On Weighted K-Mer Dictionaries](assets/pdf/slides/WABI2022.pdf){:target="\_blank"}. WABI 2022. Potsdam, Germany, 05/09/2022.
 - [Sparse and Skew Hashing of K-Mers](assets/pdf/slides/ISMB2022.pdf){:target="\_blank"}. ISMB 2022. Madison, USA (virtual), 13/07/2022.
 - [PTHash: Revisiting FCH Minimal Perfect Hashing](assets/pdf/slides/DSB2022.pdf){:target="\_blank"}. DSB 2022, Düsseldorf, Germany, 14/06/2022.
 - [Sparse and Skew Hashing of K-Mers](assets/pdf/slides/RECOMB-seq-2022.pdf){:target="\_blank"}. RECOMB-seq 2022. La Jolla, California, USA (virtual), 20/05/2022.
