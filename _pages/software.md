@@ -23,9 +23,14 @@ Efficient C++ implementations of the following data structures (see also related
 - Inverted Indexes (TOIS2017, TKDE2020, WSDM2019, SIGIR2020, CSUR2021)
 
 
+[LPHash](https://github.com/jermp/lphash) --
+Fast and compact locality-preserving minimal perfect hashing for k-mer sets.
+<br />
+Reference publications: arXiv2022.
 
 [SSHash](https://github.com/jermp/sshash) --
 A compressed, weighted, associative, and exact dictionary for k-mers.
+A membership-only version of SSHash is [SSHash-Lite](https://github.com/jermp/sshash-lite).
 <br />
 Reference publication: ISMB2022, WABI2022.
 
