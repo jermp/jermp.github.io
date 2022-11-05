@@ -8,6 +8,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 45-th European Conference on Information Retrieval (ECIR 2023).
 - The 16-th International ACM Conference on Web Search and Data Mining (WSDM 2023).
 - The 45-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022).
 - The 44-th European Conference on Information Retrieval (ECIR 2022).
@@ -46,11 +47,13 @@ I am or have been an anonymous reviewer for the following conferences/journals.
 - ESA -- European Symposium on Algorithms
 - SPIRE -- String Processing and Information Retrieval
 - ISAAC -- International Symposium on Algorithms and Computation
+- RECOMB –- International Conference on Research in Computational Molecular Biology
 
 #### Journals
 
 - TALG -- ACM Transactions on Algorithms
 - INFOSYS -- Information Systems
 - SPE -- Software: Practice and Experience
+- JEA –- Journal of Experimental Algorithmics
 - Algorithmica
 - MDPI Algorithms
