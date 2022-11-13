@@ -8,6 +8,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 13-rd RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2023).
 - The 13-rd International Symposium on Algorithms and Complexity (CIAC 2023).
 - The 45-th European Conference on Information Retrieval (ECIR 2023).
 - The 16-th International ACM Conference on Web Search and Data Mining (WSDM 2023).
@@ -48,12 +49,14 @@ I am or have been an anonymous reviewer for the following conferences/journals.
 - ESA -- European Symposium on Algorithms
 - SPIRE -- String Processing and Information Retrieval
 - ISAAC -- International Symposium on Algorithms and Computation
-- RECOMB –- International Conference on Research in Computational Molecular Biology
+- RECOMB -- International Conference on Research in Computational Molecular Biology
+- RECOMB-SEQ -- Satellite Conference on Biological Sequence Analysis
 - CIAC -- International Symposium on Algorithms and Complexity
 
 #### Journals
 
 - TALG -- ACM Transactions on Algorithms
+- Bioinformatics
 - INFOSYS -- Information Systems
 - SPE -- Software: Practice and Experience
 - JEA -- Journal of Experimental Algorithmics
