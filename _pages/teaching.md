@@ -8,6 +8,8 @@ nav: true
 
 #### **A.Y. 2022/2023**
 
+- [KNOWLEDGE, INTERACTION AND INTELLIGENT SYSTEMS-2](https://www.unive.it/data/course/401910) (code PHD157-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University
+
 - [COMPUTER SCIENCE I - MOD. 1](https://www.unive.it/data/course/374118) (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University
 
 - [COMPUTER SCIENCE FOR CULTURAL HERITAGE](https://www.unive.it/data/course/374007) (code CT0612, 6 CFU), Bachelor Degree in SCIENZE E TECNOLOGIE PER I BENI CULTURALI, Ca' Foscari University
