@@ -28,6 +28,7 @@ nav: true
 
 #### **Organizing Committees**
 
+- Co-Chair of the 18-th edition of the Workshop on Compression, Text, and Algorithms (WCTA), co-located with SPIRE 2023.
 - The 28-th edition of the Annual European Symposium on Algorithms (ESA 2020).
 - The 30-th edition of the International Symposium on Combinatorial Pattern Matching (CPM 2019).
 - The 24-th International Symposium on String Processing and Information Retrieval (SPIRE 2017).
@@ -64,3 +65,4 @@ I am or have been an anonymous reviewer for the following conferences/journals.
 - JEA -- Journal of Experimental Algorithmics
 - Algorithmica
 - MDPI Algorithms
+- IEEE TIFS – Transactions on Information Forensics and Security

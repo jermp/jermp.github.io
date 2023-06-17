@@ -14,8 +14,8 @@ I am committed to efficient software production: my software is available on
 
 Efficient C++ implementations of the following data structures (see also related publications).
 
-- K-Mer Dictionaries (ISMB2022, WABI2022)
-- Minimal Perfect Hash Functions (SIGIR2021)
+- K-Mer Dictionaries (ISMB2022, WABI2022, GBIO2023, ALGOMB2023)
+- Minimal Perfect Hash Functions (SIGIR2021, ISMB2023)
 - Segment-Trees and Fenwick-Trees (SPE2021)
 - Mutable Bitmaps with Rank/Select (INFOSYS2021)
 - Compressed Bitmaps (DCC2021)
@@ -26,13 +26,13 @@ Efficient C++ implementations of the following data structures (see also related
 [LPHash](https://github.com/jermp/lphash) --
 Fast and compact locality-preserving minimal perfect hashing for k-mer sets.
 <br />
-Reference publications: arXiv2022.
+Reference publications: ISMB2023.
 
 [SSHash](https://github.com/jermp/sshash) --
 A compressed, weighted, associative, and exact dictionary for k-mers.
 A membership-only version of SSHash is [SSHash-Lite](https://github.com/jermp/sshash-lite).
 <br />
-Reference publication: ISMB2022, WABI2022.
+Reference publication: ISMB2022, WABI2022, GBIO2023, ALGOMB2023
 
 [PTHash](https://github.com/jermp/pthash) --
 Fast and compact minimal perfect hash functions.
