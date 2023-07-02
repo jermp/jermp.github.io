@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: giulio2.jpg
+  image: giulio-light.jpg
   address: >
     <p></p>
     <p></p>
