@@ -16,7 +16,7 @@ Efficient C++ implementations of the following data structures (see also related
 
 - Compacted and Colored de Bruijn Graphs (WABI2023)
 - K-Mer Dictionaries (ISMB2022, WABI2022, GBIO2023, ALGOMB2023)
-- Minimal Perfect Hash Functions (SIGIR2021, ISMB2023)
+- Minimal Perfect Hash Functions (SIGIR2021, ISMB2023, TKDE2023)
 - Segment-Trees and Fenwick-Trees (SPE2021)
 - Mutable Bitmaps with Rank/Select (INFOSYS2021)
 - Compressed Bitmaps (DCC2021)
@@ -43,7 +43,7 @@ Reference publication: ISMB2022, WABI2022, GBIO2023, ALGOMB2023
 [PTHash](https://github.com/jermp/pthash) --
 Fast and compact minimal perfect hash functions.
 <br />
-Reference publications: SIGIR2021, arXiv2021.
+Reference publications: SIGIR2021, TKDE2023.
 
 [Mutable Rank and Select Queries](https://github.com/jermp/mutable_rank_select) --
 Mutable bitmaps with support for Rank and Select queries.
