@@ -8,6 +8,7 @@ nav: true
 
 #### **Invited Keynote**
 
+- [Compressing and indexing pangenomes with meta-colored compacted de Bruijn graphs](). ALPACA-PANGAIA Annual Workshop 2023. Amsterdam, Netherlands, 22/11/2023.
 - [On Weighted K-Mer Dictionaries](assets/pdf/slides/TUDASTIC2022.pdf){:target="\_blank"}. TUDASTIC 2022. Lille, France, 10/05/2022.
 - [Modular reference indexing with the de Bruijn graph: overview and challenges](assets/pdf/slides/ref-indexing-2022.pdf){:target="\_blank"}. Workshop on Indexing Omic Sequences. Rennes, France, 20/10/2022.
 

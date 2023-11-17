@@ -8,6 +8,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 14-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2024).
 - The 31-st edition of the Annual European Symposium on Algorithms (Track B, ESA 2023).
 - The 46-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
 - The 13-rd RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2023).
