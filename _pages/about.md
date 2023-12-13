@@ -43,7 +43,8 @@ hence granting faster access.
 I am committed to efficient software production: my software is available on
 [GitHub](https://github.com/jermp).
 
-Some research problems I have worked on include:
+Some selected research problems I have worked on include:
+Colored and compacted de Bruijn Graph Indexes,
 Compressed and Weighted Dictionaries for K-Mers,
 Minimal Perfect Hashing,
 Rank/Select and Prefix-Sum Queries,
