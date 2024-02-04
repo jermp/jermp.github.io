@@ -13,7 +13,7 @@ Before running `bundle exec` for the first time,
 run
 
 	bundle install
-	
+
 to install all gem executables.
 
 ### QR Code
