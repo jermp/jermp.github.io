@@ -14,33 +14,33 @@ I am committed to efficient software production: my software is available on
 
 Efficient C++ implementations of the following data structures (see also related publications).
 
-- Compacted and Colored de Bruijn Graphs (RECOMB2023, WABI2023, RECOMB2024)
+- Compacted and Colored de Bruijn Graphs (RECOMB2023, WABI2023, ALGOMB2024, RECOMB2024)
 - K-Mer Dictionaries (ISMB2022, WABI2022, GBIO2023, ALGOMB2023)
 - Minimal Perfect Hash Functions (SIGIR2021, ISMB2023, TKDE2023)
 - Segment-Trees and Fenwick-Trees (SPE2021)
 - Mutable Bitmaps with Rank/Select (INFOSYS2021)
 - Compressed Bitmaps (DCC2021)
 - Tries (SIGIR2017, TOIS2019, TKDE2021)
-- Inverted Indexes (TOIS2017, TKDE2020, WSDM2019, SIGIR2020, CSUR2021)
+- Inverted Indexes (TOIS2017, WSDM2019, BIC2019, TKDE2020, SIGIR2020, CSUR2021)
 
 
-[Fulgor](https://github.com/jermp/fulgor) --
+**[Fulgor](https://github.com/jermp/fulgor)** --
 A fast and compact k-mer index for large-scale matching and color queries.
 <br />
-Reference publications: WABI2023, RECOMB2024.
+Reference publications: WABI2023, ALGOMB2024, RECOMB2024.
 
-[LPHash](https://github.com/jermp/lphash) --
+**[LPHash](https://github.com/jermp/lphash)** --
 Fast and compact locality-preserving minimal perfect hashing for k-mer sets.
 <br />
 Reference publications: ISMB2023.
 
-[SSHash](https://github.com/jermp/sshash) --
+**[SSHash](https://github.com/jermp/sshash)** --
 A compressed, weighted, associative, and exact dictionary for k-mers.
 A membership-only version of SSHash is [SSHash-Lite](https://github.com/jermp/sshash-lite).
 <br />
 Reference publications: ISMB2022, WABI2022, GBIO2023, ALGOMB2023.
 
-[PTHash](https://github.com/jermp/pthash) --
+**[PTHash](https://github.com/jermp/pthash)** --
 Fast and compact minimal perfect hash functions.
 <br />
 Reference publications: SIGIR2021, TKDE2023.
@@ -83,6 +83,8 @@ Reference publication: CSUR2021.
 [Interpolative Coding](https://github.com/jermp/interpolative_coding) --
 An efficient implementation of the Binary Interpolative Coding
 algorithm.
+<br />
+Reference publication: BIC2019.
 
 [Sliced Indexes](https://github.com/jermp/s_indexes) --
 Compressed bitmap indexes that support fast intersection and union.
@@ -119,7 +121,7 @@ Reference publication: TOIS2017.
 
 C++ utilities that I used as sub-modules for larger projects.
 
-[essentials](https://github.com/jermp/essentials) --
+**[essentials](https://github.com/jermp/essentials)** --
 A C++ library providing essential core utilities for data structure design and benchmarking. More precisely:
 
 - benchmarking facilities, including: messages displaying local time, configurable timer class, function to prevent code elision by compiler, simple creation and printing of json documents;
@@ -128,8 +130,8 @@ A C++ library providing essential core utilities for data structure design and b
 - support for creating, removing, and iterate inside directories;
 - transparent support for contiguous memory allocation.
 
-[cmd_line_parser](https://github.com/jermp/cmd_line_parser) --
+**[cmd_line_parser](https://github.com/jermp/cmd_line_parser)** --
 Command line parser for C++17. It offers all handy features in just 150 lines of code.
 
-[mm_file](https://github.com/jermp/mm_file) --
+**[mm_file](https://github.com/jermp/mm_file)** --
 A self-contained, header-only, implementation of memory-mapped files in C++ for both reading and writing.
