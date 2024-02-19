@@ -8,7 +8,12 @@ nav: true
 
 #### **Editorial boards**
 
-- I serve as a recommender (similar to an editor) of PCI Mathematical and Computational Biology ([https://mcb.peercommunityin.org](https://mcb.peercommunityin.org)).
+- I am member of the editorial board of [Information Systems](https://www.sciencedirect.com/journal/information-systems/about/aims-and-scope).
+
+- I am member of the editorial board of [Discover Computing](https://link.springer.com/journal/10791/aims-and-scope) (formerly known as *Information Retrieval Journal*).
+
+- I serve as a recommender (similar to an editor) of [PCI Mathematical and Computational Biology](https://mcb.peercommunityin.org).
+
 
 #### **Program Committees**
 
