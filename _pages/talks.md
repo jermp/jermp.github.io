@@ -30,7 +30,8 @@ nav: true
 - [Fast Dictionary-based Compression for Inverted Indexes](assets/pdf/slides/WSDM2019.pdf){:target="\_blank"}. WSDM 2019. Melbourne Exhibition Center, Melbourne, Australia, 12/02/2019.
 - [Efficient Data Structures for Massive N-Gram Datasets](assets/pdf/slides/SIGIR2017.pdf){:target="\_blank"}. SIGIR 2017. Keio Plaza Hotel, Tokyo, Japan, 10/08/2017.
 - [Dynamic Elias-Fano Representation](assets/pdf/slides/CPM2017.pdf){:target="\_blank"}. CPM 2017. University Library of Warsaw, Warsaw, Poland, 06/07/2017.
-- [Efficient Data Structures for Massive N-Gram Datasets](assets/pdf/slides/SIGIR2017.pdf){:target="\_blank"}. IIR 2017. Università della Szizzera Italiana, Lugano, Switzerland, 06/06/2017.
+- [Efficient Data Structures for Massive N-Gram Datasets](assets/pdf/slides/SIGIR2017.pdf){:target="\_blank"}. IIR 2017. Università della Svizzera 
+Italiana, Lugano, Switzerland, 06/06/2017.
 
 #### **Seminars**
 
