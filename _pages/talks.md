@@ -14,7 +14,7 @@ nav: true
 
 #### **Conferences**
 
-- [Meta-Colored de Bruijn Graphs](assets/pdf/slides/RECOMB-2024.pdf){:target="\_blank"}. RECOMB 2024. Boston, USA, 30/04/2024.
+- [Meta-Colored Compacted de Bruijn Graphs](assets/pdf/slides/RECOMB-2024.pdf){:target="\_blank"}. RECOMB 2024. Boston, USA, 30/04/2024.
 - [Locality-Preserving Minimal Perfect Hashing of K-Mers](assets/pdf/slides/ISMB2023.pdf){:target="\_blank"}. ISMB 2023. Lyon, France, 25/07/2023.
 - [Spectrum Preserving Tilings Enable Sparse and Modular Reference Indexing](assets/pdf/slides/DSB2023.pdf){:target="\_blank"}. DSB 2023. Delft, Netherlands, 21/03/2023.
 - [On Weighted K-Mer Dictionaries](assets/pdf/slides/WABI2022.pdf){:target="\_blank"}. WABI 2022. Potsdam, Germany, 05/09/2022.
