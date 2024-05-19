@@ -14,6 +14,9 @@ nav: true
 
 - I serve as a recommender (similar to an editor) of [PCI Mathematical and Computational Biology](https://mcb.peercommunityin.org).
 
+#### **Special Issues**
+
+- Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I am guest editor for the special issue *"Computation over compressed data"* (selected papers from DCC 2024) in Information Systems.
 
 #### **Program Committees**
 
