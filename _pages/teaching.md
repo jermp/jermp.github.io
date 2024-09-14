@@ -6,15 +6,24 @@ description:
 nav: true
 ---
 
+#### **A.Y. 2024/2025**
+
+- [COMPUTER SCIENCE I - MOD. 1](https://www.unive.it/data/course/510103) (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University of Venice
+
+- [INTRODUCTION TO COMPUTER PROGRAMMING](https://www.unive.it/data/course/521402) (code CT0665, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
+
+- [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/520935) (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
+
+
 #### **A.Y. 2023/2024**
 
 - [AUTONOMOUS, DISTRIBUTED AND PERVASIVE SYSTEMS-2](https://www.unive.it/data/course/471255) (code PHD156-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice
 
 - [COMPUTER SCIENCE I - MOD. 1](https://www.unive.it/data/course/441572) (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University of Venice
 
-- [INTRODUCTION TO PROGRAMMING-1](https://www.unive.it/data/course/493929) (code CT0441, 6 CFU), Bachelor Degree in INFORMATICA, Ca' Foscari University of Venice
+- [INTRODUCTION TO PROGRAMMING-1](https://www.unive.it/data/course/493929) (code CT0441, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
 
-- [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/493955) (code CT0442, 6 CFU), Bachelor Degree in INFORMATICA, Ca' Foscari University of Venice
+- [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/493955) (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
 
 
 #### **A.Y. 2022/2023**
@@ -27,7 +36,7 @@ nav: true
 
 - [COMPUTER SCIENCE FOR CULTURAL HERITAGE](https://www.unive.it/data/course/374007) (code CT0612, 6 CFU), Bachelor Degree in SCIENZE E TECNOLOGIE PER I BENI CULTURALI, Ca' Foscari University of Venice
 
-- [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/379954) (code CT0442, 6 CFU), Bachelor Degree in INFORMATICA, Ca' Foscari University of Venice
+- [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/379954) (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
 
 
 #### **A.Y. 2021/2022**
