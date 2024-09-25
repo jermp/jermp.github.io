@@ -44,11 +44,11 @@ I am committed to efficient software production: my software is available on
 [GitHub](https://github.com/jermp).
 
 Some selected research problems I have worked on include:
+Minimizer sampling schemes,
 Colored and compacted de Bruijn Graph Indexes,
 Compressed and Weighted Dictionaries for K-Mers,
 Minimal Perfect Hashing,
 Rank/Select and Prefix-Sum Queries,
-Bitmap Compression,
 Indexing and Estimation of Language Models,
 Inverted Index Compression.
 

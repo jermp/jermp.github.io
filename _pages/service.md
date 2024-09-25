@@ -43,6 +43,7 @@ nav: true
 
 #### **Organizing Committees**
 
+- The 23-rd Symposium on Experimental and Algorithms (SEA 2025).
 - Co-Chair of the 18-th edition of the Workshop on Compression, Text, and Algorithms (WCTA), co-located with SPIRE 2023.
 - The 28-th edition of the Annual European Symposium on Algorithms (ESA 2020).
 - The 30-th edition of the International Symposium on Combinatorial Pattern Matching (CPM 2019).
