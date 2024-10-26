@@ -20,6 +20,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - The 47-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
 - The 14-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2024).
 - The 31-st edition of the Annual European Symposium on Algorithms (Track B, ESA 2023).
@@ -32,7 +33,6 @@ nav: true
 - The 45-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022).
 - The 44-th European Conference on Information Retrieval (ECIR 2022).
 - The 15-th International ACM Conference on Web Search and Data Mining (WSDM 2022).
-<!--- The 15-th IEEE International Conference on Application of Information and Communication Technologies (AICT 2021).-->
 - The 30-th ACM International Conference on Information and Knowledge Management (CIKM 2021).
 - The 44-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021).
 - The 43-rd European Conference on Information Retrieval (ECIR 2021).
@@ -43,7 +43,7 @@ nav: true
 
 #### **Organizing Committees**
 
-- The 23-rd Symposium on Experimental and Algorithms (SEA 2025).
+- The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - Co-Chair of the 18-th edition of the Workshop on Compression, Text, and Algorithms (WCTA), co-located with SPIRE 2023.
 - The 28-th edition of the Annual European Symposium on Algorithms (ESA 2020).
 - The 30-th edition of the International Symposium on Combinatorial Pattern Matching (CPM 2019).
@@ -81,6 +81,6 @@ I am or have been an anonymous reviewer for the following conferences/journals.
 - JEA -- Journal of Experimental Algorithmics
 - Algorithmica
 - MDPI Algorithms
-- TIFS -- Transactions on Information Forensics and Security
 - IPM -- Information Processing and Management
 - PCI Math & Comp Biol
+- Genome Biology
