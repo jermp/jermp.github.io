@@ -21,10 +21,9 @@ As of June 2022, I am **Assistant Professor of Computer Science** at [Ca' Foscar
 [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183).
 Before that, I have been a Research Fellow in Computer Science at the CNR in Pisa, [HPC-Lab](http://hpc.isti.cnr.it), from November 2018 to May 2022 (3 times Young Researcher Award, for the years 2019, 2020, and 2021).
 
-I obtained a PhD in Computer Science in March 2019,
-and a Master Degree in Computer Science in March 2015 (Best Master Thesis Award
-in Theoretical Computer Science from EATCS; Master Degree Award from Scuola Superiore
-Sant'Anna) from the University of Pisa.
+I obtained a PhD in Computer Science in March 2019 from the University of Pisa.
+
+On 19-th November 2024, I obtained the italian National Scientific Habilitation (ASN) for associate professorship in both Computer Science (01/B1) and Computer Engineering (09/H1).
 
 I keep an updated copy of my CV [here](https://github.com/jermp/curriculum_vitae/blob/master/CV_GiulioErmanno_Pibiri.pdf).
 
