@@ -20,6 +20,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 15-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2025).
 - The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - The 47-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
 - The 14-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2024).

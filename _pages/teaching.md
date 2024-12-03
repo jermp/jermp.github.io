@@ -28,7 +28,7 @@ nav: true
 
 #### **A.Y. 2022/2023**
 
-- [Introduction to Algorithms](assets/pdf/slides/introduction-to-algorithms.pdf){:target="\_blank"}, ITIS A. Pacinotti, Mestre (Venice), 06/06/2022
+- [Introduction to Algorithms](assets/pdf/slides/introduction-to-algorithms.pdf){:target="\_blank"}, ITIS A. Pacinotti, Mestre (Venice), 06/06/2023
 
 - [KNOWLEDGE, INTERACTION AND INTELLIGENT SYSTEMS-2](https://www.unive.it/data/course/401910) (code PHD157-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice
 
