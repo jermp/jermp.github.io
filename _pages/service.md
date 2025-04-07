@@ -16,7 +16,7 @@ nav: true
 
 #### **Special Issues**
 
-- Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I am guest editor for the special issue *"Computation over compressed data"* (selected papers from DCC 2024) in Information Systems.
+- Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I am guest editor for the special issue [*"Computation over compressed data"* (selected papers from DCC 2024)](https://www.sciencedirect.com/special-issue/305506/computation-over-compressed-data) in Information Systems.
 
 #### **Program Committees**
 
