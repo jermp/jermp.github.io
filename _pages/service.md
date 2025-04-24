@@ -10,8 +10,6 @@ nav: true
 
 - I am member of the editorial board of [Information Systems](https://www.sciencedirect.com/journal/information-systems/about/aims-and-scope).
 
-- I am member of the editorial board of [Discover Computing](https://link.springer.com/journal/10791/aims-and-scope) (formerly known as *Information Retrieval Journal*).
-
 - I serve as a recommender (similar to an editor) of [PCI Mathematical and Computational Biology](https://mcb.peercommunityin.org).
 
 #### **Special Issues**
@@ -20,6 +18,7 @@ nav: true
 
 #### **Program Committees**
 
+- The the 32nd International Symposium on String Processing and Information Retrieval (SPIRE 2025).
 - The 15-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2025).
 - The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - The 47-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
