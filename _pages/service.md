@@ -18,7 +18,7 @@ nav: true
 
 #### **Program Committees**
 
-- The the 32nd International Symposium on String Processing and Information Retrieval (SPIRE 2025).
+- The 32nd International Symposium on String Processing and Information Retrieval (SPIRE 2025).
 - The 15-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2025).
 - The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - The 47-th ACM International SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
