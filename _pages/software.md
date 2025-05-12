@@ -26,7 +26,7 @@ Efficient C++ implementations of the following data structures (see also related
 **[Minimizers](https://github.com/jermp/minimizers)** --
 A collection of minimizer-based sampling algorithms.
 <br />
-Reference publications: WABI-2024.
+Reference publications: WABI-2024, ALGOMB-2025.
 
 **[Fulgor](https://github.com/jermp/fulgor)** --
 A fast and compact k-mer index for large-scale matching and color queries.
