@@ -24,7 +24,7 @@ and a Research Fellow at the CNR in Pisa, [HPC-Lab](http://hpc.isti.cnr.it), fro
 
 I obtained a PhD in Computer Science in March 2019 from the University of Pisa.
 
-On 19-th November 2024, I obtained the italian National Scientific Habilitation (ASN) for associate professorship in both Computer Science (01/B1) and Computer Engineering (09/H1).
+<!--On 19-th November 2024, I obtained the italian National Scientific Habilitation (ASN) for associate professorship in both Computer Science (01/B1) and Computer Engineering (09/H1).-->
 
 I keep an updated copy of my CV [here](https://github.com/jermp/curriculum_vitae/blob/master/CV_GiulioErmanno_Pibiri.pdf).
 
