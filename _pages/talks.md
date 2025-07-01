@@ -6,8 +6,9 @@ description:
 nav: true
 ---
 
-#### **Invited Keynote**
+#### **Invited**
 
+- [Repetition-aware compression and query of colored de Bruijn graphs](assets/pdf/slides/CompressedAI-workshop-2025.pdf){:target="\_blank"}. RIKEN-AIP Workshop: Compressed Data Structures for Advanced Data Analysis 2025. Tokyo, Japan, 04/07/2025.
 - [The anatomy of an order-preserving k-mer dictionary](assets/pdf/slides/CompressedAI-tutorial-2025.pdf){:target="\_blank"}. RIKEN-AIP Workshop: Compressed Data Structures for Advanced Data Analysis 2025. Tokyo, Japan, 02/07/2025.
 - [Compressing and indexing pangenomes with meta-colored compacted de Bruijn graphs](assets/pdf/slides/ALPACA-PANGAIA-2023.pdf){:target="\_blank"}. ALPACA-PANGAIA Winter School 2023. Amsterdam, Netherlands, 22/11/2023.
 - [Modular reference indexing with the de Bruijn graph: overview and challenges](assets/pdf/slides/ref-indexing-2022.pdf){:target="\_blank"}. Workshop on Indexing Omic Sequences. Rennes, France, 20/10/2022.
