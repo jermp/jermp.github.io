@@ -8,6 +8,7 @@ nav: true
 
 #### **Invited Keynote**
 
+- [The anatomy of an order-preserving k-mer dictionary](assets/pdf/slides/CompressedAI-tutorial-2025.pdf){:target="\_blank"}. RIKEN-AIP Workshop: Compressed Data Structures for Advanced Data Analysis 2025. Tokyo, Japan, 02/07/2025.
 - [Compressing and indexing pangenomes with meta-colored compacted de Bruijn graphs](assets/pdf/slides/ALPACA-PANGAIA-2023.pdf){:target="\_blank"}. ALPACA-PANGAIA Winter School 2023. Amsterdam, Netherlands, 22/11/2023.
 - [Modular reference indexing with the de Bruijn graph: overview and challenges](assets/pdf/slides/ref-indexing-2022.pdf){:target="\_blank"}. Workshop on Indexing Omic Sequences. Rennes, France, 20/10/2022.
 - [On Weighted K-Mer Dictionaries](assets/pdf/slides/TUDASTIC2022.pdf){:target="\_blank"}. TUDASTIC 2022. Lille, France, 10/05/2022.
