@@ -16,6 +16,7 @@ nav: true
 
 #### **Conferences**
 
+- [U-Index: A Universal Indexing Framework for Matching Long Patterns](assets/pdf/slides/SEA-2025.pdf){:target="\_blank"}. SEA 2025. Venice, Italy, 22/07/2025.
 - [The Mod-Minimizer: A Simple and Efficient Sampling Algorithm for Long K-Mers](assets/pdf/slides/WABI-2024.pdf){:target="\_blank"}. WABI 2024. Egham, UK, 02/09/2024.
 - [Meta-Colored Compacted de Bruijn Graphs](assets/pdf/slides/RECOMB-2024.pdf){:target="\_blank"}. RECOMB 2024. Boston, USA, 30/04/2024.
 - [Locality-Preserving Minimal Perfect Hashing of K-Mers](assets/pdf/slides/ISMB2023.pdf){:target="\_blank"}. ISMB 2023. Lyon, France, 25/07/2023.
