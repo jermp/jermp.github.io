@@ -43,6 +43,7 @@ nav: true
 
 #### **Organizing Committees**
 
+- The 12-nd Workshop on Data Structures in Bioinformatics (DSB 2026).
 - The 23-rd Symposium on Experimental Algorithms (SEA 2025).
 - Co-Chair of the 18-th edition of the Workshop on Compression, Text, and Algorithms (WCTA), co-located with SPIRE 2023.
 - The 28-th edition of the Annual European Symposium on Algorithms (ESA 2020).
