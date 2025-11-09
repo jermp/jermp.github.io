@@ -16,6 +16,4 @@ Via Torino, 155 - 30170 Mestre, Venezia (VE), Italy
 
 #### **Office number**
 
-<!--Z.B09 — Zeta B building-->
-
-**Temporarily** moved to 1P32 — Epsilon building
+Z.B09 — Zeta B building
