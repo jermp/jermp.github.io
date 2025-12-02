@@ -14,7 +14,7 @@ I am committed to efficient software production: my software is available on
 
 Efficient C++ implementations of the following data structures (see also related publications).
 
-- Compacted and Colored de Bruijn Graphs (RECOMB-2023, WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024)
+- Compacted and Colored de Bruijn Graphs (RECOMB-2023, WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024, WABI-2025)
 - K-Mer Dictionaries (ISMB-2022, WABI-2022, GBIO-2023, ALGOMB-2023)
 - Minimal Perfect Hash Functions (SIGIR-2021, ISMB-2023, TKDE-2023, ESA-2024)
 - Segment-Trees and Fenwick-Trees (SPE-2021)
@@ -31,7 +31,7 @@ Reference publications: WABI-2024, ALGOMB-2025.
 **[Fulgor](https://github.com/jermp/fulgor)** --
 A fast and compact k-mer index for large-scale matching and color queries.
 <br />
-Reference publications: WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024.
+Reference publications: WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024, WABI-2025.
 
 **[LPHash](https://github.com/jermp/lphash)** --
 Fast and compact locality-preserving minimal perfect hashing for k-mer sets.
