@@ -18,6 +18,7 @@ nav: true
 
 #### **Program Committees**
 
+- The 34-th European Symposium on Algorithms (ESA 2026 -- Track E)
 - The 34-th International Conference on Intelligent Systems for Molecular Biology (ISMB 2026).
 - The 32-nd International Symposium on String Processing and Information Retrieval (SPIRE 2025).
 - The 15-th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2025).
