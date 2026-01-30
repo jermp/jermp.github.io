@@ -44,13 +44,15 @@ I am committed to efficient software production: my software is available on
 [GitHub](https://github.com/jermp).
 
 Some selected research problems I have worked on include:
-Minimizer sampling schemes,
-Colored and compacted de Bruijn Graph Indexes,
-Compressed and Weighted Dictionaries for K-Mers,
-Minimal Perfect Hashing,
-Rank/Select and Prefix-Sum Queries,
-Indexing and Estimation of Language Models,
-Inverted Index Compression.
+minimizer sampling schemes,
+colored and compacted de Bruijn graph indexes,
+compressed dictionaries for k-mers,
+minimal perfect hashing,
+rank/select and prefix-sum queries,
+indexing and estimation of language models,
+inverted index compression.
 
 If you are interested in problems of this kind, feel free to drop me a line!
 ([giulioermanno.pibiri@unive.it](mailto:giulioermanno.pibiri@unive.it))
+
+I am part of the [RAVEN Lab (Research on Algorithms VENice)](https://raven-laboratory.github.io).
