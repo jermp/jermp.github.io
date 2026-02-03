@@ -8,7 +8,6 @@ nav: true
 
 #### **A.Y. 2025/2026**
 
-- [Building large de Bruijn graphs](assets/pdf/slides/building-dbgs.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 02/12/2025
 - [COMPUTER SCIENCE I - MOD. 1](https://www.unive.it/data/course/574427) (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University of Venice
 - [INTRODUCTION TO COMPUTER PROGRAMMING](https://www.unive.it/data/course/573141) (code CT0665, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice
 - [PROGRAMMING AND LABORATORY-2](https://www.unive.it/data/course/573194) (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice

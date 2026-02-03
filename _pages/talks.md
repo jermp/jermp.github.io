@@ -40,6 +40,8 @@ Italiana, Lugano, Switzerland, 06/06/2017.
 
 #### **Seminars**
 
+- [van Emde Boas trees](assets/pdf/slides/vEB-slides.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 03/02/2026
+- [Building large de Bruijn graphs](assets/pdf/slides/building-dbgs.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 02/12/2025
 - [Compressed data structures for big data indexing](assets/pdf/slides/campus-tales-pibiri.pdf){:target="\_blank"}. Ca' Foscari University of Venice, Venice, Italy, 12/07/2024.
 - [Compressing and Indexing Pangenomes with Meta-Colored de Bruijn Graphs](assets/pdf/slides/YRA2022.pdf){:target="\_blank"}. ISTI-CNR, Pisa, Italy (virtual), 02/11/2023.
 - [Sparse and Skew Hashing of K-Mers](assets/pdf/slides/YRA2021.pdf){:target="\_blank"}. ISTI-CNR, Pisa, Italy (virtual), 19/05/2022.
