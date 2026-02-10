@@ -40,6 +40,7 @@ Italiana, Lugano, Switzerland, 06/06/2017.
 
 #### **Seminars**
 
+- [x-fast and y-fast tries](assets/pdf/slides/x-y-fast-tries.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 10/02/2026
 - [van Emde Boas trees](assets/pdf/slides/vEB-slides.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 03/02/2026
 - [Building large de Bruijn graphs](assets/pdf/slides/building-dbgs.pdf){:target="\_blank"}, Ca' Foscari University of Venice, 02/12/2025
 - [Compressed data structures for big data indexing](assets/pdf/slides/campus-tales-pibiri.pdf){:target="\_blank"}. Ca' Foscari University of Venice, Venice, Italy, 12/07/2024.
