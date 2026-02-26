@@ -52,7 +52,11 @@ rank/select and prefix-sum queries,
 indexing and estimation of language models,
 inverted index compression.
 
-If you are interested in problems of this kind, feel free to drop me a line!
-([giulioermanno.pibiri@unive.it](mailto:giulioermanno.pibiri@unive.it))
+If you are interested in problems of this kind, feel free to [drop me a line](mailto:giulioermanno.pibiri@unive.it)!
 
 I am part of the [RAVEN Lab (Research on Algorithms VENice)](https://raven-laboratory.github.io).
+
+#### **Contact**
+- [giulioermanno.pibiri@unive.it](mailto:giulioermanno.pibiri@unive.it)
+- Via Torino, 155 - 30170 Mestre, Venezia (VE), Italy
+- Office number 33, first floor, Epsilon building
