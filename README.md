@@ -18,4 +18,5 @@ to install all gem executables.
 
 ### QR Code
 
+	brew install qrencode
 	qrencode https://jermp.github.io -o qr_codes/site.png
