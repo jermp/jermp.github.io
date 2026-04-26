@@ -20,6 +20,11 @@ nav: true
 - [KNOWLEDGE, INTERACTION AND INTELLIGENT SYSTEMS-2](https://www.unive.it/data/course/401910) (code PHD157-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice: a.y. 22/23.
 - [Theory and Practice of Data Compression](https://github.com/jermp/data_compression_course/releases/tag/v1.0.0) (5 CFU), PhD Program in Ingegneria dell’Informazione, University of Pisa: a.y. 21/22.
 
+#### Notes
+
+- [On Implementing the Binary Interpolative Coding Algorithm](assets/pdf/notes/bic.pdf){:target="\_blank"}.
+- [The Elias-Fano coding method](assets/pdf/notes/elias_fano_notes.pdf){:target="\_blank"}.
+
 #### Lectures
 
 - [Introduction to Algorithms](assets/pdf/slides/introduction-to-algorithms.pdf){:target="\_blank"}, ITIS A. Pacinotti, Mestre (Venice), 06/06/2023
