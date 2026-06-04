@@ -14,9 +14,9 @@ I am committed to efficient software production: my software is available on
 
 Efficient C++ implementations of the following data structures (see also related publications).
 
-- Compacted and Colored de Bruijn Graphs (RECOMB-2023, WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024, WABI-2025)
-- K-Mer Dictionaries (ISMB-2022, WABI-2022, GBIO-2023, ALGOMB-2023)
-- Minimal Perfect Hash Functions (SIGIR-2021, ISMB-2023, TKDE-2023, ESA-2024)
+- Compacted and Colored de Bruijn Graphs (RECOMB-2023, WABI-2023, AMB-2024, RECOMB-2024, JCB-2024, WABI-2025, BIOADV-2026)
+- K-Mer Dictionaries (ISMB-2022, WABI-2022, GBIO-2023, AMB-2023, ISMB-2026)
+- Minimal Perfect Hash Functions (SIGIR-2021, ISMB-2023, TKDE-2023, ESA-2024, CSUR-2026)
 - Segment-Trees and Fenwick-Trees (SPE-2021)
 - Mutable Bitmaps with Rank/Select (INFOSYS-2021)
 - Compressed Bitmaps (DCC-2021)
@@ -26,12 +26,12 @@ Efficient C++ implementations of the following data structures (see also related
 **[Minimizers](https://github.com/jermp/minimizers)** --
 A collection of minimizer-based sampling algorithms.
 <br />
-Reference publications: WABI-2024, ALGOMB-2025.
+Reference publications: WABI-2024, AMB-2025.
 
 **[Fulgor](https://github.com/jermp/fulgor)** --
 A fast and compact k-mer index for large-scale matching and color queries.
 <br />
-Reference publications: WABI-2023, ALGOMB-2024, RECOMB-2024, JCB-2024, WABI-2025.
+Reference publications: WABI-2023, AMB-2024, RECOMB-2024, JCB-2024, WABI-2025.
 
 **[LPHash](https://github.com/jermp/lphash)** --
 Fast and compact locality-preserving minimal perfect hashing for k-mer sets.
@@ -42,12 +42,12 @@ Reference publications: ISMB-2023.
 A compressed, weighted, associative, and exact dictionary for k-mers.
 A membership-only version of SSHash is [SSHash-Lite](https://github.com/jermp/sshash-lite).
 <br />
-Reference publications: ISMB-2022, WABI-2022, GBIO-2023, ALGOMB-2023.
+Reference publications: ISMB-2022, WABI-2022, GBIO-2023, AMB-2023, ISMB-2026.
 
 **[PTHash](https://github.com/jermp/pthash)** --
 Fast and compact minimal perfect hash functions.
 <br />
-Reference publications: SIGIR-2021, TKDE-2023, ESA-2024.
+Reference publications: SIGIR-2021, TKDE-2023, ESA-2024, CSUR-2026.
 
 [Mutable Rank and Select Queries](https://github.com/jermp/mutable_rank_select) --
 Mutable bitmaps with support for Rank and Select queries.
