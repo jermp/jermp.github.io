@@ -14,10 +14,11 @@ nav: true
 
 #### **Special Issues**
 
-- Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I am guest editor for the special issue [*"Computation over compressed data"* (selected papers from DCC 2024)](https://www.sciencedirect.com/special-issue/305506/computation-over-compressed-data) in Information Systems.
+- Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I have been guest editor for the special issue [*"Computation over compressed data"* (selected papers from DCC 2024)](https://www.sciencedirect.com/special-issue/305506/computation-over-compressed-data) in Information Systems.
 
 #### **Program Committees**
 
+- The 29-th International Symposium on Algorithm Engineering and Experiments (ALENEX 2027).
 - The 33-rd International Symposium on String Processing and Information Retrieval (SPIRE 2026).
 - The 34-th European Symposium on Algorithms (ESA 2026 -- Track E).
 - The 34-th International Conference on Intelligent Systems for Molecular Biology (ISMB 2026).
