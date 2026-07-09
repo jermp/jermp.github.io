@@ -27,4 +27,5 @@ nav: true
 
 #### Lectures
 
-- [Introduction to Algorithms](assets/pdf/slides/introduction-to-algorithms.pdf){:target="\_blank"}, ITIS A. Pacinotti, Mestre (Venice), 06/06/2023
+- [Introduction to Algorithms](assets/pdf/slides/introduction-to-algorithms.pdf){:target="\_blank"}.
+- [Dynamic Programming](assets/pdf/slides/dynamic-programming.pdf){:target="\_blank"}.
