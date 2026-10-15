@@ -8,9 +8,9 @@ nav: true
 
 #### Current
 
-- *Algorithms for Modern Hardware* (code CT0701, 6 CFU), Bachelor and Master Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27.
-- *Introduction to Computer Programming* (code CT0665, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27, 25/26, 24/25, 23/24.
-- *Programming and Laboratory - Mod. 2* (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27, 25/26, 24/25, 23/24, 22/23.
+- **Algorithms for Modern Hardware** (code CT0701, 6 CFU), Bachelor and Master Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27.
+- **Introduction to Computer Programming** (code CT0665, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27, 25/26, 24/25, 23/24.
+- **Programming and Laboratory - Mod. 2** (code CT0442, 6 CFU), Bachelor Degree in Computer Science, Ca' Foscari University of Venice: a.y. 26/27, 25/26, 24/25, 23/24, 22/23.
 
 #### Past
 
