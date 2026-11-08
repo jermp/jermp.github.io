@@ -14,11 +14,11 @@ nav: true
 
 #### Past
 
-- *Computer Science 1 - Mod 1* (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University of Venice: a.y. 25/26, 24/25, 23/24, 22/23.
-- *Computer Science for Cultural Heritage* (code CT0612, 6 CFU), Bachelor Degree in SCIENZE E TECNOLOGIE PER I BENI CULTURALI, Ca' Foscari University of Venice: a.y. 22/23.
-- *An Introduction to Data Compression and Coding Theory* (code PHD156-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice: a.y. 23/24.
-- *Compact Data Structures* (code PHD157-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice: a.y. 22/23.
-- *Theory and Practice of Data Compression* (5 CFU), PhD Program in Ingegneria dell’Informazione, University of Pisa: a.y. 21/22.
+- Computer Science 1 - Mod 1 (code CT0569, 6 CFU), Bachelor Degree in Ingegneria Fisica, Ca' Foscari University of Venice: a.y. 25/26, 24/25, 23/24, 22/23.
+- Computer Science for Cultural Heritage (code CT0612, 6 CFU), Bachelor Degree in Scienze e Tecnologie per i Beni Culturali, Ca' Foscari University of Venice: a.y. 22/23.
+- An Introduction to Data Compression and Coding Theory (code PHD156-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice: a.y. 23/24.
+- Compact Data Structures (code PHD157-2, 2 CFU), PhD Program in Computer Science, Ca' Foscari University of Venice: a.y. 22/23.
+- Theory and Practice of Data Compression (5 CFU), PhD Program in Ingegneria dell’Informazione, University of Pisa: a.y. 21/22.
 
 #### Notes
 
