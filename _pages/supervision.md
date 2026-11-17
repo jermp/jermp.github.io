@@ -14,6 +14,8 @@ Since 2025.
 - Alessio Campanelli, Ca' Foscari University of Venice.
 Since 2024.
 
+- Victor Levallois, University of Rennes. Visiting from 01/02/2026 to 01/05/2026 .
+
 ### Master's Students
 
 - Alessio Campanelli, Ca' Foscari University of Venice.

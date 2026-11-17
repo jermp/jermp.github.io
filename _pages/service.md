@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-#### **Editorial boards**
+#### **Editorial Boards**
 
 - I am member of the editorial board of [Information Systems](https://www.sciencedirect.com/journal/information-systems/about/aims-and-scope).
 
@@ -15,6 +15,17 @@ nav: true
 #### **Special Issues**
 
 - Together with Dominik Kempa (Stony Brook University) and Nicola Prezza (Ca' Foscari University of Venice), I have been guest editor for the special issue [*"Computation over compressed data"* (selected papers from DCC 2024)](https://www.sciencedirect.com/special-issue/305506/computation-over-compressed-data) in Information Systems.
+
+#### **PhD Committees**
+
+I served on the PhD committees of the following candidates:
+
+- Elena Biagi (University of Helsinki, 2026)
+- Igor Martayan (University of Lille, 2026)
+- Andrea Cracco (University of Verona, 2026)
+- Ragnar Groot Koerkamp (ETH Zurich, 2025)
+- Lucas Robidou (University of Rennes, 2023)
+
 
 #### **Program Committees**
 
